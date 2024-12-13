@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_memo_list.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/memo_list.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_hamsterjjangu.PNG.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/hamsterjjangu.PNG"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_activity_splash.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_activity_write.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/activity_write.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_shinnosuke_himawari.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/shinnosuke_himawari.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_shinchanbenkyo.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/shinchanbenkyo.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_hikarishinchang.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/hikarishinchang.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_shiro.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/shiro.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_activity_main.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_usan.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/usan.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_activity_weather.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/activity_weather.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_rain.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/rain.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_memo_detail.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/memo_detail.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_splash1.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/splash1.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_loginbackground.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/loginbackground.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_shiroshinjjang.png.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/shiroshinjjang.png"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_activity_diary_detail.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/activity_diary_detail.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_nomal_shinnosuke.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/nomal_shinnosuke.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/font_gamja.ttf.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/font/gamja.ttf"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_arrowdown.png.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/arrowdown.png"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_activity_login.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_shinnosuke_write.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/shinnosuke_write.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/font_shinzzang.ttf.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/font/shinzzang.ttf"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_shinchang.jpg.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/shinchang.jpg"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/drawable_button_background.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_activity_detail_edit.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/activity_detail_edit.xml"
+    },
+    {
+        "merged": "com.example.jjangu_diary.app-debug-45:/layout_activity_list.xml.flat",
+        "source": "com.example.jjangu_diary.app-main-47:/layout/activity_list.xml"
+    }
+]
